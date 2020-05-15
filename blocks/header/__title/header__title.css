@@ -1,0 +1,16 @@
+.header__title{
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    width: 730px;
+    padding-left: 64px;
+    justify-content: center;
+    margin: 0;
+    align-items: center;
+    z-index: 2;
+    font-size: 102px;
+    line-height: 96px;
+    font-weight: bold;
+    margin: auto;
+    color: #000000;
+  }

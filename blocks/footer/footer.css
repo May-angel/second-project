@@ -1,0 +1,16 @@
+@import url(./__columns/footer__columns.css);
+@import url(./__column/footer__column.css);
+@import url(./__author/footer__author.css);
+@import url(./__column-heading/footer__column-heading.css);
+@import url(./__column-links/footer__column-links.css);
+@import url(./__link/footer__link.css);
+@import url(./__social-icon/footer__social-icon.css);
+.footer {
+    width: 100%;
+    min-height: 350px;
+    margin: auto;
+    box-sizing: border-box;
+    display: flex;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #1f1f1f;
+  }

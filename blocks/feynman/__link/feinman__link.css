@@ -1,0 +1,21 @@
+.feinman__link {
+    margin: 0;
+    width: max-content;
+    position: absolute;
+    right: 48px;
+    top: 50%;
+    margin-top: -25.5px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    font-size: 36px;
+    line-height: 51px;
+    font-weight: normal;
+    margin: 0;
+    text-align: center;
+    text-decoration: none;
+    color: #000000;
+    transition: 0.5s;
+  }
+
+  .feinman__link:hover {
+    opacity: 50%;
+  }
